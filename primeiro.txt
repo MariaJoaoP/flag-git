@@ -1,2 +1,4 @@
 primeiro ficheiro com alterações diversas
 função para converter numeros binários 
+função para converter números em numeração romana
+outra função arrow
